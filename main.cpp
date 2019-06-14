@@ -1,3 +1,5 @@
 int main(){
-return 0;
+	std::cout<<"raz"
+	return 0;
 }
+
